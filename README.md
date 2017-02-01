@@ -1,2 +1,0 @@
-# war
-solo el war
